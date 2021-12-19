@@ -21,11 +21,14 @@
     "express": "^4.17.2",
     "cors": "^2.8.5",
     "body-parser": "^1.19.1",
-    "transmission-promise": "^1.1.5"
+    "transmission-promise": "^1.1.5",
+    "redis": "^4.0.1",
+    "node-fetch": "^3.1.0"
   },
   "devDependencies": {
     "babel-loader": "^8.2.3",
     "@babel/preset-env": "^7.16.5",
     "babel-watch": "^7.7.0"
-  }
+  },
+  "type": "module"
 }
